@@ -20,6 +20,7 @@ district_name_all_list.insert(0,"")
 
 st.header('Budget planning for economically disadvantaged students in Massachusetts school districts')
 st.subheader('Introduction')
+st.subheader('Test')
 st.write('At the begining of each school year (October 1), school districts make a budget plan for the next school year. A foundation budget is created which is the minimum funding required for each school district. Based on this foundation budget, the state and local administrators will provide needed funding for school districts. The foundation budget also includes additional funding for school districts to support economically disadvantaged students (ED, ~$3500 per student). The current number of enrolled students seen by Oct. 1 is used to calculate the foundation budget, which is often lower than the actual number of ED students in the next school year. This tool provides better budget planning for ED students using realistic enrollment projection.')
 st.subheader('Instruction')
 st.write('Select the school district on the sidebar menu to see the projected budget')
